@@ -1,9 +1,10 @@
 Hi 👋
+
 Please reach out by email with the subject [Github]
 
 ## Bio
 
-I'm a software developer currectly focus on front-end development. Sometimes I get curious and start working on Serveless, backend, and cloud tech.
+I'm a software developer currently focused on front-end development. Sometimes I get curious and start working on Serveless, backend, and cloud tech.
 
 🔭 I’m currently working for GBM (Grupo Bursátil Mexicano) doing fun stuff with front-end apps
 
